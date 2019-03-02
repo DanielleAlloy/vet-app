@@ -1,1 +1,1 @@
-# vet-app
+# vet-app-java
